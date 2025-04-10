@@ -31,28 +31,22 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Learnify",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Learnify is a modern learning management system designed to facilitate study center operations and enhance the educational experience for students and instructors. The platform supports course management, user authentication, and performance tracking. Built using C# with ASP.NET Core for the back-end, it features secure and efficient RESTful APIs. The front-end, developed with React.js and styled with Tailwind CSS, provides a dynamic and responsive user interface.",
+    url: "",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Dern Support",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "The Dern Support System is a comprehensive platform designed to streamline customer support operations. It enables support teams to manage user inquiries, track tickets, and ensure efficient resolution of issues. The back-end was developed using C# with ASP.NET Core, incorporating RESTful APIs to handle data communication seamlessly. The front-end, built with React.js, provides a clean and responsive interface for managing support tickets. The system is powered by Entity Framework and SQL, ensuring robust and scalable database management.",
+    url: "",
   },
   {
-    title: "My Resume Site",
+    title: "Fitness Hub",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
-  },
-  {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Fitness Hub is a web-based platform designed to help users monitor their fitness routines and achieve their health goals. The application allows users to log workouts, set personalized fitness objectives, and track progress over time. The back-end was developed using Node.js and Express.js, providing robust RESTful APIs for seamless data management. The front-end, built with React.js, offers an intuitive and user-friendly interface, while the database, powered by SQL, ensures reliable storage and retrieval of user data.",
+    url: "",
   },
 ];
 
